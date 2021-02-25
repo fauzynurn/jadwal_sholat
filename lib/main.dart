@@ -28,7 +28,7 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(child: Text('This is sholat schedule module')),
+      body: Center(child: Text('I changed something. Do you see that?')),
     );
   }
 }
